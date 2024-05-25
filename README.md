@@ -3,6 +3,8 @@
 Implemented FullCalendar plugin - https://fullcalendar.io/
 It took 3 hours to complete the task
 
+Before starting the project, go into appsetings.json and change the ConnectionString to your
+
 What implemented:
 - [x] Google Authentication
 - [x] Integration FullCalendar
