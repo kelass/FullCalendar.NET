@@ -3,7 +3,9 @@
 Implemented FullCalendar plugin - https://fullcalendar.io/
 It took 3 hours to complete the task
 
-Before starting the project, go into appsetings.json and change the ConnectionString to your
+Before starting the project, go into appsetings.json and change the ConnectionString to your:
+![image](https://github.com/kelass/FullCalendar.NET/assets/69418373/a54eeab8-12ba-47de-b809-95010e2c6a41)
+
 
 What implemented:
 - [x] Google Authentication
